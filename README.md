@@ -1,1 +1,3 @@
-# DIT-044-Assignment-2
+# DIT044 Assignment 2
+
+Se Canvas for instructions
